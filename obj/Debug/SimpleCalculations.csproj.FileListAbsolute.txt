@@ -1,0 +1,6 @@
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe.config
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.pdb
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.csprojResolveAssemblyReference.cache
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.exe
+c:\users\nyx\documents\visual studio 2015\Projects\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.pdb
