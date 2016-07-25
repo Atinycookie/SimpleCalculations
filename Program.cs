@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -59,7 +59,7 @@ namespace SimpleCalculations
                         }
                     default:
                         {
-                            Console.WriteLine("The calculation method you specified is invalid, please write something like: +, -, / or *");
+                            Console.WriteLine("The calculation method you specified is invalid or not supported, please write something like: +, -, / or *");
                             break;
                         }
                 }
